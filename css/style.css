@@ -14,15 +14,17 @@ h1 {
 	font-size: 50px;
 }
 
-.trigger, .tweet {
-	border: 1px;
+.trigger, 
+.tweet {
+	border: 1px solid white;
 	border-radius: 5px;
-	border-color: white;
 	display: block;
 	height: 30px;
+	line-height: 30px;
 	width: 150px;
 	color: white;
-	
+	margin: 10px auto;
+	text-decoration: none;
 }
 
 button {
