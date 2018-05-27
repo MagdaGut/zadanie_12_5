@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body {
+	background: lightblue;
+	font-family: 'Quicksand', sans-serif;
+}
+
+main {
+	text-align: center;
+}
+
+h1 {
+	padding: 50px;
+	font-size: 50px;
+}
+
+.trigger, .tweet {
+	border: 1px;
+	border-radius: 5px;
+	border-color: white;
+	display: block;
+	height: 30px;
+	width: 150px;
+	color: white;
+	
+}
+
+button {
+	background-color: inherit;
+	border-width: 2px;
+	background-position: 100% 0;
+	background-size: 300%;
+}
